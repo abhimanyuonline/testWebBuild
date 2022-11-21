@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732134267305",
+    "project_id": "english-gurukul-student-app-an",
+    "storage_bucket": "english-gurukul-student-app-an.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732134267305:android:1ae87f77c4ddc368a40cb8",
+        "android_client_info": {
+          "package_name": "com.OritSciencesPrivateLimited.EnglishGurukul.studentDEV"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732134267305-kspobp60mdfavftc8uiel2tf8b6bqnof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw5XH2BawXV9kbAYHKel9DmY54lYM6bYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732134267305-kspobp60mdfavftc8uiel2tf8b6bqnof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
